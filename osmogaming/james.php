@@ -3,6 +3,6 @@
 	<title>James</title>
 </head>
 <body>
-OsmoGaming: James Edition
+	<h1>OsmoGaming: James Edition</h1>
 </body>
 </html>
